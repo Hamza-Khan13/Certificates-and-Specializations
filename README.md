@@ -2,6 +2,7 @@
 
 No. | Title | Institute / Organization | Platform | Certificate 
 :--:| :-- | :--: | :--: | :--: |
+7 | [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | Coursera | [Verify](https://coursera.org/share/093f2e76aa889f29cd89e5cbce4c7a4c)
 6 | [Business Analytics Specialization](https://www.coursera.org/specializations/analytics) | University of Illinois | Coursera | [Verify](https://coursera.org/share/8baef394caa5662dbeafb3f7fb25505e)
 5 | [TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | Coursera | [Verify](https://coursera.org/share/024cb003ee9690659024f8ba98e63c06)  
 4 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | Coursera | [Verify](https://coursera.org/share/e232996fd8b850acff5d6390bbf15592)  

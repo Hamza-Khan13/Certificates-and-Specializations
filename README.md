@@ -2,6 +2,7 @@
 
 No. | Title | Institute / Organization | Platform | Certificate 
 :--:| :-- | :--: | :--: | :--: |
+8 | [DevOps on AWS](https://www.coursera.org/specializations/aws-devops) | Amazon Web Service | Coursera | [Verify](https://coursera.org/share/1856e2a87a7f783c402b9eaf286bacdd)
 7 | [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | Coursera | [Verify](https://coursera.org/share/093f2e76aa889f29cd89e5cbce4c7a4c)
 6 | [Business Analytics Specialization](https://www.coursera.org/specializations/analytics) | University of Illinois | Coursera | [Verify](https://coursera.org/share/8baef394caa5662dbeafb3f7fb25505e)
 5 | [TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | Coursera | [Verify](https://coursera.org/share/024cb003ee9690659024f8ba98e63c06)  
